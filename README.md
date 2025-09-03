@@ -1,1 +1,1 @@
-A Word reader for any worrd
+A Word reader for any word
